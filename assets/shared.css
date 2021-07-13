@@ -285,7 +285,59 @@ footer p#footer-mention img{padding-bottom:6px ;margin:0 6px}
 #pratique .bloc-2 p { padding-left:140px; margin-bottom:0; padding-bottom:30px;font-size:14px;margin-right:36px; padding-top:28px; margin-top:6px; color:#666;height:60px}
 #pratique .bloc-2 a{ color:#384967; font-size:14px; position:relative; float:right; top:-14px;margin-right:36px}
 
+/*  espace partenaire maintenance */
+.espacepro .tel{
+	margin: auto;
+	color: #000;
+	display: block;
+	border: solid 1px #aaa;
+	height: 50px;
+	font-size: 20px;
+	line-height: 50px;
+	border-radius: 25px;
+	width: 200px;
+	text-decoration: none;
 
+}
+
+.espacepro .tel:hover{
+	background-color: #940000;
+	color: #FFF;
+}
+
+.signature{
+	padding: 20px 0 60px 0;
+	color: #940000;
+}
+
+#rassure{
+	margin: auto;
+	/*border: solid 1px #940000;*/
+	padding: 30px 20px;
+	width: 600px;
+	background-color: #f5d9d7;
+}
+
+#rassure strong{
+	color:#940000 ;
+}
+
+.question{
+	font-weight: bold;
+	color: #940000;
+	font-size: 14px;
+}
+
+.reponse{
+	font-size: 14px;
+}
+
+
+.questionFinal{
+	font-weight: 200;
+	font-size: 20px;
+	line-height: 22px;
+}
 
 /* nav produits */
 
