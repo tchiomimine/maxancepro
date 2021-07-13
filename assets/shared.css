@@ -223,7 +223,7 @@ article{overflow:auto; overflow:visible; z-index:20}}
 /* header */
 .topbanner a { float:left; display:block; /* SW test left:91px;*/; left:50px; position:relative; top:68px}
 header {   margin-top:0; border-top:solid 9px #E81617;padding:0 10px; position:relative; z-index:3; height:113px}
-.main{top:-41px}
+.main{top:28px}
 p#baseline{font-family:'Roboto',sans-serif;margin-top:1em;  color:#e3211f; font-size:14px;position:absolute; left:58px;  }
 /* nav header */
 header nav{float:right; position:relative;text-align :right; padding-right:41px}
@@ -238,7 +238,7 @@ header nav ul#toolbox li a{ color:white}
 header nav ul#toolbox li a:hover{text-decoration:none }
 
 /* footer */
-footer{ text-align:center;  top:-41px ; position:relative;z-index:1}
+footer{ text-align:center;  top:-1px ; position:relative;z-index:1}
 
 
 footer p, footer li{font-size:12px}
