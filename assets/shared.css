@@ -287,7 +287,7 @@ footer p#footer-mention img{padding-bottom:6px ;margin:0 6px}
 
 /*  espace partenaire maintenance */
 .espacepro .tel{
-	margin: auto;
+	margin: 10px auto 50px;
 	color: #000;
 	display: block;
 	border: solid 1px #aaa;
@@ -297,6 +297,7 @@ footer p#footer-mention img{padding-bottom:6px ;margin:0 6px}
 	border-radius: 25px;
 	width: 200px;
 	text-decoration: none;
+	text-align: center;
 
 }
 
