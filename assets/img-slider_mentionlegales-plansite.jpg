@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>maXance</title>
+	<link rel="stylesheet" href="/css/global.css">
+</head>
+<body>
+
+	<div id="page">
+		<img id="logo" src="/img/mx.png" alt="ASSU 2000">
+
+		<content>
+			<header>
+				<p>
+				maxance est une société du Groupe ASSU 2000, courtier expert en assurance (auto, moto, habitation) et en crédit (crédit immobilier, regroupement de crédits) auprès des particuliers depuis plus de 45 ans.
+				</p>
+
+			</header>
+			
+			<p>
+				maXance a été victime <strong>d'un acte informatique malveillant</strong>. Par mesure de précaution et à titre conservatoire, nous avons pris la décision de suspendre momentanément l'accès à nos systèmes informatiques, entraînant des difficultés d’accès au site pro.maxance.com et votre extranet Proximéo.
+			</p>
+			<p>
+				Nous mettons tout en œuvre pour y <strong>remédier rapidement</strong>.
+			</p>
+
+			<p >
+				Nos équipes restent à votre disposition du lundi au vendredi, de 9h00 à 18h30, et le samedi de 9h00 à 12h30 au&nbsp;:
+			</p>
+			<p>
+				<strong><a class="tel" href="tel:+0149153300">01&nbsp;49&nbsp;15&nbsp;33&nbsp;00</a></strong>
+			</p>
+			
+		</content>
+		<article>
+			
+				<header id="rassure"> <strong>Cher partenaire, avant toute chose, soyez rassuré&nbsp;:</strong><br>
+				Les garanties des contrats de vos assurés sont toujours actives.</header>		
+				<ul>
+					<li>
+						<p class="question">Vous souhaitez souscrire, modifier, gérer, ou obtenir des informations sur un contrat&nbsp;?</p>
+						<p class="reponse"> Contactez votre facilitateur de business sur sa ligne directe ou un conseiller au 01&nbsp;49&nbsp;15&nbsp;33&nbsp;00, 
+ou par mail à l'adresse suivante : <a href="mailto:maxance.assurances.mc@gmail.com">maxance.assurances.mc@gmail.com</a></p>
+					</li>
+					<li>
+						<h2 >Autres numéros utiles</h2>
+						
+					</li>
+					<li>
+						<p class="question">Déclarer / Gérer un sinistre&nbsp;:</p>
+						<p class="reponse"> <strong>01&nbsp;49&nbsp;15&nbsp;33&nbsp;00</strong> 
+ou par mail à l'adresse suivante : <a href="mailto:indemnisation.maxance@gmail.com">indemnisation.maxance@gmail.com</a></p>
+					</li>
+
+					<li>
+						<p class="question">Assistance&nbsp;:</p>
+						<p class="reponse"><strong>02&nbsp;43&nbsp;80&nbsp;21&nbsp;38</strong></p>
+					</li>
+					<li>
+						<p class="question">Comptabilité&nbsp;:</p>
+						<p class="reponse"><strong>Nous vous confirmons que les quittances de vos contrats en portefeuille seront prélevées à partir du 5 juillet.</strong>
+						</p>
+					</li>
+					<li>
+						<p class="question">Pour tout autre sujet&nbsp;:</p>
+						<p class="reponse"><strong>Contactez-nous au 01&nbsp;49&nbsp;15&nbsp;33&nbsp;00.</strong></p>
+					</li>
+
+				</ul>
+
+				<p class="signature">
+				<strong>Les équipes maXance</strong>
+				</p>
+
+			</article>
+
+				
+		
+
+
+	</div>
+	
+</body>
+</html>
