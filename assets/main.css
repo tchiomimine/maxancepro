@@ -61,7 +61,7 @@
 		#nav-produits .item-156 .sous-menu{   border-color: #C4C037;}
 		#nav-produits .item-156 .sous-menu li:hover > a, #nav-produits .item-156 .sous-menu li.default > a{background-color: white; color:#C4C037;}
 
-		#nav-produits  .item-400 .sous-menu{background-image: url("../images/sous-menu/image_hospitalisation-sous-menu.jpg")}
+		#nav-produits  .item-400 .sous-menu{background-image: url("/assets/sous-menu/image_hospitalisation-sous-menu.jpg")}
     		/*#nav-produits .item-400 .sous-menu li{background-color: #C4C037;}*/
     	#nav-produits .item-400 .sous-menu li:hover > a, #nav-produits .item-400 .sous-menu li.default > a{background-color: white; color:#C4C037;}
 
@@ -75,30 +75,30 @@
 		#nav-produits .sous-menu.level-2 li{ background-color: transparent;}
 	
 		/* auto */
-		#nav-produits  .item-141 .sous-menu.level-2{  background-image: url("../images/sous-menu/auto.jpg");  border-color: #913687;}
-		#nav-produits .item-143 .sous-menu.level-2 {background-image: url("../images/sous-menu/auto-prestige.jpg")}
-		#nav-produits .item-413 .sous-menu.level-2 {background-image: url("../images/sous-menu/auto_pro.jpg")}
-		#nav-produits .item-144 .sous-menu.level-2 {background-image: url("../images/sous-menu/vsp.jpg")}
-		#nav-produits .item-145 .sous-menu.level-2 {background-image: url("../images/sous-menu/camping-car.jpg")}
+		#nav-produits  .item-141 .sous-menu.level-2{  background-image: url("/assets/sous-menu/auto.jpg");  border-color: #913687;}
+		#nav-produits .item-143 .sous-menu.level-2 {background-image: url("/assets/sous-menu/auto-prestige.jpg")}
+		#nav-produits .item-413 .sous-menu.level-2 {background-image: url("/assets/sous-menu/auto_pro.jpg")}
+		#nav-produits .item-144 .sous-menu.level-2 {background-image: url("/assets/sous-menu/vsp.jpg")}
+		#nav-produits .item-145 .sous-menu.level-2 {background-image: url("/assets/sous-menu/camping-car.jpg")}
 	
 	  /* deux roues */
-		#nav-produits  .item-146 .sous-menu.level-2{  background-image: url("../images/sous-menu/moto.jpg");  border-color: #18AEE0;}
-		#nav-produits  .item-149 .sous-menu.level-2 {background-image: url("../images/sous-menu/cyclo.jpg")}
-		#nav-produits .item-150 .sous-menu.level-2 {background-image: url("../images/sous-menu/quad.jpg")}
+		#nav-produits  .item-146 .sous-menu.level-2{  background-image: url("/assets/sous-menu/moto.jpg");  border-color: #18AEE0;}
+		#nav-produits  .item-149 .sous-menu.level-2 {background-image: url("/assets/sous-menu/cyclo.jpg")}
+		#nav-produits .item-150 .sous-menu.level-2 {background-image: url("/assets/sous-menu/quad.jpg")}
 	
 		/* habitation */
-		#nav-produits  .item-151 .sous-menu.level-2{  background-image: url("../images/sous-menu/habitation.jpg"); border-color:#F09E1D;}
+		#nav-produits  .item-151 .sous-menu.level-2{  background-image: url("/assets/sous-menu/habitation.jpg"); border-color:#F09E1D;}
 
 		/* famille-sante */
-		#nav-produits  .item-157 .sous-menu.level-2{  background-image: url("../images/sous-menu/sante-famille.jpg");  border-color: #C4C037;}
-		#nav-produits  .item-158 .sous-menu.level-2 {background-image: url("../images/sous-menu/chien-chat.jpg")}
-		#nav-produits  .item-159 .sous-menu.level-2 {background-image: url("../images/sous-menu/assurance-scolaire.jpg")}
-		#nav-produits  .item-400 .sous-menu.level-2 {background-image: url("../images/sous-menu/image_hospitalisation-sous-menu.jpg")}
+		#nav-produits  .item-157 .sous-menu.level-2{  background-image: url("/assets/sous-menu/sante-famille.jpg");  border-color: #C4C037;}
+		#nav-produits  .item-158 .sous-menu.level-2 {background-image: url("/assets/sous-menu/chien-chat.jpg")}
+		#nav-produits  .item-159 .sous-menu.level-2 {background-image: url("/assets/sous-menu/assurance-scolaire.jpg")}
+		#nav-produits  .item-400 .sous-menu.level-2 {background-image: url("/assets/sous-menu/image_hospitalisation-sous-menu.jpg")}
 		
 		/* autres */
-		#nav-produits  .item-265 .sous-menu.level-2{  background-image: url("../images/sous-menu/assurance-pro.jpg");  border-color: #4f534f;}
-		#nav-produits  .item-379 .sous-menu.level-2, #nav-produits  .item-380 .sous-menu.level-2{  background-image: url("../images/sous-menu/credit-immo.jpg");  border-color: #4f534f;}
-		#nav-produits  .item-390 .sous-menu.level-2, #nav-produits  .item-393 .sous-menu.level-2{background-image: url("../images/sous-menu/assurance-emprunteur.jpg");  border-color: #4f534f;}
+		#nav-produits  .item-265 .sous-menu.level-2{  background-image: url("/assets/sous-menu/assurance-pro.jpg");  border-color: #4f534f;}
+		#nav-produits  .item-379 .sous-menu.level-2, #nav-produits  .item-380 .sous-menu.level-2{  background-image: url("/assets/sous-menu/credit-immo.jpg");  border-color: #4f534f;}
+		#nav-produits  .item-390 .sous-menu.level-2, #nav-produits  .item-393 .sous-menu.level-2{background-image: url("/assets/sous-menu/assurance-emprunteur.jpg");  border-color: #4f534f;}
 		
 
 
@@ -141,8 +141,8 @@
 .banner li div { top: 36px;}
 
 /*** blocs home ***/
-#pratique .bloc-2.espace p{background: transparent url('../images/picto-tool-box-gauche.png') no-repeat;}
-#pratique .bloc-2.partenaire p{background: transparent url('../images/picto-tool-box-droite.png') no-repeat;}
+#pratique .bloc-2.espace p{background: transparent url('/assets/picto-tool-box-gauche.png') no-repeat;}
+#pratique .bloc-2.partenaire p{background: transparent url('/assets/picto-tool-box-droite.png') no-repeat;}
 #pratique .bloc-2.partenaire p.tel{position:relative; top:-32px; padding:0; left:36px;}
 #pratique .bloc-2.partenaire p.tel, aside .bloc-1 div.decale p.tel {    background-image: none;    color: #EA5A3E;  font-family: 'Roboto',arial,sans-serif; font-size: 23px; font-weight: bold;  margin-bottom: 9px; padding-left: 6px;  padding-right: 6px; text-align: center;}
 
@@ -157,7 +157,7 @@ aside .bloc-1{position:relative;background: white;width:247px; padding: 6px ; ma
 aside .bloc-1 ul{list-style-type:none; padding:0;}
 aside .bloc-1 ul li {border-bottom: solid 1px #666; padding: 9px 2px;}
 aside .bloc-1 ul li.last {border-bottom: none; }
-aside  p.decale, aside div.decale p {padding-left: 100px;    padding-right: 24px; background-image:  url('../images/sprite-aside.png'); background-repeat: no-repeat; font-family: 'Roboto condensed', arial, sans-serif; }
+aside  p.decale, aside div.decale p {padding-left: 100px;    padding-right: 24px; background-image:  url('/assets/sprite-aside.png'); background-repeat: no-repeat; font-family: 'Roboto condensed', arial, sans-serif; }
 aside p.decale.puce-1{background-position: 0 -489px; }
 aside p.decale.puce-2{background-position: 0 -218px; }
 aside p.decale.puce-4{background-position: 0 -108px; }
@@ -180,7 +180,7 @@ aside p.decale.puce-4{background-position: 0 -108px; }
 #video .bloc-1{ background:white; width:92%; margin-top: 40px; margin-left:40px}
 #video .bloc-1 h3{ position:relative; top: -10px; margin-left:-10px}
 #video li{display:inline-block; width:18.3%; margin:0.8% 1% 0.8% 0; height:80px; position:relative;}
-#video li a{display:block;text-transform:uppercase;  font-size:13px ;line-height: 1.22em; position:absolute;background:#939393 url(../images/picto-play.png) no-repeat 128px 4px; top:0 ; left:0; right:0; bottom:0;padding-top:12%;}
+#video li a{display:block;text-transform:uppercase;  font-size:13px ;line-height: 1.22em; position:absolute;background:#939393 url(/assets/picto-play.png) no-repeat 128px 4px; top:0 ; left:0; right:0; bottom:0;padding-top:12%;}
 #video li a, #video li a span {font-family: 'Roboto condensed', arial, sans-serif; text-align:center;  color:white; font-weight: bold; text-decoration:none;}
 #video li a.auto:hover{background:#93358B;}
 #video li a.deux-roues:hover{background:#18AEE0;}
@@ -191,7 +191,7 @@ aside p.decale.puce-4{background-position: 0 -108px; }
 
 /** modifs nelles pages produits **/
 
-.full .accroche {margin-top: 24px ; margin-bottom: 24px ; padding:12px 12px 36px; padding-left: 134px; background: #f3f3f3 url(../images/partenaire.png) no-repeat 24px 12px; }
+.full .accroche {margin-top: 24px ; margin-bottom: 24px ; padding:12px 12px 36px; padding-left: 134px; background: #f3f3f3 url(/assets/partenaire.png) no-repeat 24px 12px; }
 .accroche  img{margin: 18px; margin-top: 24x; }
 .accroche h2{font-weight: bold; font-size: 18px; color: #666; line-height:1em;}
 .full > h2, .produit #video h3 {display:inline-block; height: 36px; padding:0 12px; line-height: 36px; background : #384967; color:white; position: relative;  top:0;text-align:center; font-size: 18px; font-weight: bold; margin-top:0; margin-bottom:0;}
@@ -207,35 +207,35 @@ aside p.decale.puce-4{background-position: 0 -108px; }
 .credit aside{margin-top: 80px;position:relative;padding-top: 40px; height:200px;}
 
 .credit aside h2{width:210px; top: -40px;left:0;font-family:'Roboto condensed', arial, sans-serif;font-weight:bold; height:40px;text-align:center;}
-.credit aside .bloc-4{vertical-align:middle; margin-left: 56px; width: 250px;text-align:center; border-radius: 2px; height:57px; background: white url('../images/sprite_credit-2.png') no-repeat  left -6px;box-shadow: #666 0 0 12px;padding-top:92px; color:#333; font-size: 16px;font-family: 'Roboto condensed', arial, sans-serif;}
+.credit aside .bloc-4{vertical-align:middle; margin-left: 56px; width: 250px;text-align:center; border-radius: 2px; height:57px; background: white url('/assets/sprite_credit-2.png') no-repeat  left -6px;box-shadow: #666 0 0 12px;padding-top:92px; color:#333; font-size: 16px;font-family: 'Roboto condensed', arial, sans-serif;}
 .credit aside .adresse{background-position:  -50px -6px; }
 .credit aside .tel{background-position:  96px -6px; }
 .credit aside .email{background-position:  -220px -6px; }
 .credit aside .agences{background-position:  -61px -154px; }
 .credit aside .email a{color:#333; font-size: 16px;font-family: 'Roboto condensed', arial, sans-serif;}
 .credit aside .bloc-4.first{margin-left:30px;}
-.credit aside .appli{background: #eee url('../images/application-mobile.png') no-repeat 4px 60px ;padding-top: 8px;height:142px;}
+.credit aside .appli{background: #eee url('/assets/application-mobile.png') no-repeat 4px 60px ;padding-top: 8px;height:142px;}
 .credit aside .appli a{ display:block; width : 100px;margin-left: 102px;}
 .credit .bloc-2 p{color:#333;}
 .credit .bloc-2 strong{display:block; color: #eb6608; font-weight: bold; font-size:24px; font-family: 'Roboto condensed', arial, sans-serif;margin-bottom:8px; line-height: 1.5em;}
 }
 .credit .full h2 {width:180px;}
-.credit .accroche{background: #f3f3f3 url(../images/sprite_credit-2.png) no-repeat -388px -154px;    padding-bottom: 20px;}
+.credit .accroche{background: #f3f3f3 url(/assets/sprite_credit-2.png) no-repeat -388px -154px;    padding-bottom: 20px;}
 .credit .accroche + h2{ width: 350px;}
 .credit .solutions  h3{font-size: 24px; line-height: 1em; margin: 12px auto 0; font-weight:bold;}
 .credit .solutions  h3 strong{display:block; color:#94c11e;}
 .credit .solutions p{font-size: 16px; padding:14px 28px; padding-bottom: 0;line-height:1.1em;margin:0;  }
 .credit .bloc-2{width:420px; margin: 0 8px ; position:relative;height:100%; text-align:center; border: solid 1px #cecece; }
 .credit .bloc-2 img{margin: 1.4% auto;}
-.credit .bloc-1 h3 {font-size: 22px;padding: 38px 74px; padding-right:0; width: 190px; background: transparent no-repeat url(../images/en-savoir-plus.png);}
+.credit .bloc-1 h3 {font-size: 22px;padding: 38px 74px; padding-right:0; width: 190px; background: transparent no-repeat url(/assets/en-savoir-plus.png);}
 .credit .bloc-1{text-align:center; }
 .credit .bloc-1 p{padding:0}
 .simulateurs li{liste-style-type:none; display:inline-block;width: 28%; height: 70px; vertical-align: middle; }
-.simulateurs li a{font-family: 'Roboto condensed', arial, sans-serif; font-size: 16px; color:#333; display: block; padding: 10px 0; padding-left:70px;background: transparent url(../images/sprite_credit.png) no-repeat -450px 12px}
+.simulateurs li a{font-family: 'Roboto condensed', arial, sans-serif; font-size: 16px; color:#333; display: block; padding: 10px 0; padding-left:70px;background: transparent url(/assets/sprite_credit.png) no-repeat -450px 12px}
 .simulateurs li a:hover{ color:#eb6608;background-position: -449px -76px}
 
 /* page assurance emprunteur */
-.assurcredit aside .bloc-4 {vertical-align:middle; text-align:center; height:57px !important; background: white url('../images/sprite-contact.png') no-repeat  left -6px; padding-top:72px !important; margin-left:0; color:#333; font-size: 16px;font-family: 'Roboto condensed', arial, sans-serif; font-weight:700}
+.assurcredit aside .bloc-4 {vertical-align:middle; text-align:center; height:57px !important; background: white url('/assets/sprite-contact.png') no-repeat  left -6px; padding-top:72px !important; margin-left:0; color:#333; font-size: 16px;font-family: 'Roboto condensed', arial, sans-serif; font-weight:700}
 .assurcredit aside .adresse{background-position:  80px -3px; }
 .assurcredit aside .tel{background-position:  -140px 0px; }
 .assurcredit aside .email{background-position:  -380px -6px; }
@@ -250,7 +250,7 @@ aside p.decale.puce-4{background-position: 0 -108px; }
 
 .autofirst .solutions .infos h3{padding-top: 36px; background-image:none;}
 .autofirst .solutions .infos p {width: 166px; margin:auto; }
-.solutions  .infos a, .solutions  .bloc-2 a, .solutions .bloc-3.assurcredit a {display : block; padding: 8px 12px;width: 142px; margin-left: 21%; color: white; background:  #4f534f url(../images/sous-menu/sousmenu_site-maxanceV2_10.png) no-repeat 126px center ; margin-top: 18px; font-family:'Roboto condensed', arial, sans-serif; text-align:left ;}
+.solutions  .infos a, .solutions  .bloc-2 a, .solutions .bloc-3.assurcredit a {display : block; padding: 8px 12px;width: 142px; margin-left: 21%; color: white; background:  #4f534f url(/assets/sous-menu/sousmenu_site-maxanceV2_10.png) no-repeat 126px center ; margin-top: 18px; font-family:'Roboto condensed', arial, sans-serif; text-align:left ;}
 .credit .solutions .bloc-2 a {background-color:#eb6608; padding: 4px 12px; padding-right:50px; margin: 12px auto 18px  ; background-position: 165px center;}
 .credit .solutions .taux a{background-color:#333;padding: 4px 12px; padding-right: 80px; width: 108px; margin-bottom: 24px;}
 .solutions .infos a:hover{text-decoration:none; background-color:#353A35; }
@@ -263,7 +263,7 @@ aside p.decale.puce-4{background-position: 0 -108px; }
 .solutions .bloc-3{position:relative; width : 286px;  height:370px; border-bottom:solid 4px #e6dbdf; margin-right:12px; display:inline-block; background: white; #display:block; #float: left; vertical-align:top;margin-bottom: 24px;}
 .autofirst .details{position: relative;  background:white; border:none;z-index:30;padding: 18px; font-size: 12px;  }
 .autofirst .solutions .infos{ background-color: transparent; border-color:transparent;}
-.autofirst .solutions h3{text-align:center; font-family: 'Roboto condensed', arial, sans-serif; font-weight: normal; font-size: 22px;line-height: 1.2em; padding-top:110px; background: transparent url(../images/sprite-assu-pro.png) no-repeat;}
+.autofirst .solutions h3{text-align:center; font-family: 'Roboto condensed', arial, sans-serif; font-weight: normal; font-size: 22px;line-height: 1.2em; padding-top:110px; background: transparent url(/assets/sprite-assu-pro.png) no-repeat;}
 
 .autofirst  .vehicules h3{background-position: 85px -25px;}
 .autofirst  .multirisque h3 {background-position: -171px -25px;}
@@ -331,7 +331,7 @@ td.buttonLeft,td.buttonRight{background-image:none;	}
 ** garages agréés **
 *******************/
 .avantagesgarages {list-style-type:none;padding-left: 0;}
-.avantagesgarages li { background: url("../images/sprite-avantagesgarages.png") no-repeat; float: left; font-weight: 700; line-height: 1.2em; padding-right: 5px; padding-top: 60px; text-align: center; width: 24%;margin:20px 0;}
+.avantagesgarages li { background: url("/assets/sprite-avantagesgarages.png") no-repeat; float: left; font-weight: 700; line-height: 1.2em; padding-right: 5px; padding-top: 60px; text-align: center; width: 24%;margin:20px 0;}
 .avantagesgarages li#frais { background-position:37px 0;}
 .avantagesgarages li#distance { background-position:-243px 0;}
 .avantagesgarages li#reparation { background-position:-98px 0;}

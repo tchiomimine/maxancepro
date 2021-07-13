@@ -305,6 +305,12 @@ footer p#footer-mention img{padding-bottom:6px ;margin:0 6px}
 	color: #FFF;
 }
 
+.espacepro header {
+	border: none;
+	text-align: center;
+	height: auto;
+}
+
 .signature{
 	padding: 20px 0 60px 0;
 	color: #940000;
