@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* CSS Document */
+
+footer ul li {#padding-left:12px;#padding-right:12px}
+.reassurance .bloc-4{ #width:18%}
+#pratique .bloc-1 p{#width:480px}
+article .item-page{#width:540px}
+h1{#top:138px}
+.courtier h1{font-size:16px;#top:92px}
+.proxidirect h1{#top:120px}
+.proxidirect .telephone{#top:200px}
+.proxidirect .callback{#top:276px}
+
+#nav-produits{#margin-top:36px;#z-index:26;padding-left:385px}
+#nav-produits  ul li {margin-left:0;width:115px}
+
+#nav-produits ul li[class^=item] {background-position-x:2px}
+#nav-produits ul li.item-156:hover {background-position-x:-13px}
+#nav-produits ul li.item-151:hover {background-position-x:-7px}
+#nav-produits ul li.item-141:hover {background-position-x:-1px}
+#nav-produits ul li.item-146:hover {background-position-x:-12px}
+#nav-produits ul li.item-264:hover {background-position-x:-9px}
+
+#nav-produits ul li.item-156 .fleche {left:525px;#left:530px}
+#nav-produits ul li.item-151  .fleche  {left:418px;#left:420px}
+#nav-produits ul li.item-141 .fleche  {left:184px;#left:185px}
+#nav-produits ul li.item-146 .fleche  {left:300px}
+#nav-produits ul li.item-264 .fleche  {left:618px;#left:622px}
+
+#nav-produits ul li a{#margin-top:-1px;	width:125px;font-size:13px;}
+#nav-produits .sous-menu{display:none;margin-left:3px;#margin-left:-90px;#top:95px;#left:111px}
+#nav-produits .sous-menu li {#margin-left:-754px;#margin-top:-43px;#margin-bottom:-88px}	
+#nav-produits .sous-menu.level-2, #nav-produits .sous-menu.level-3{ left:176px;#left:270px}
+#nav-produits li:hover .sous-menu{display:block}
+#nav-produits li:hover .sous-menu.level-2{display:block}
+#nav-produits li .sous-menu.level-2 li {#line-height:22px}
+#nav-produits .sous-menu.level-2 > li > .separator {#margin-top:36px;#margin-left:-220px}
+#nav-produits .sous-menu.level-3 { #margin-left:-210px}
+#nav-produits .sous-menu.level-3 li{#font-weight:normal}
+#nav-produits .sous-menu.level-2 > li a.offre, #nav-produits .sous-menu.level-2 > li a.devis { 	#line-height:1.2em;#padding-top:7px;font-size:15px}
+
+.telephone{width:270px}
+.telephone .tel{width:250px;padding-left:0}
+
+.telephone .tel span{padding-right:0}
+div.breadcrumbs{#top:130px;width:35%}
+.h-working-time h2, .h-details .h-salary h2 {#display:block;#float:left}
+.solutions{#height:790px}
+.js .solutions .bloc-3{#position:static}
+.js .solutions .plus {#display:block;#position:relative;#top:-3px ;#line-height:24px;#font-size:16px;left:130px;#left:0;vertical-align:middle}
+.js .solutions .shover .plus{#top:-83px}
+.js .solutions {#height:540px}
+.js .details{display:none;#position:relative;#top:-84px}
+.js .shover .details {display:block}
+
+.telephone {#top :228px}
+.callback{#top:302px}
+.callback fieldset, .callback label{font-size:13px}
+#submittel{#height:22px;#border:none}
+.main{z-index:2}
+.showContent{#clear:left}
+
+.credit .solutions .bloc-2, .offres .bloc-2, .offres .intro div, .contact .bloc-2 {#height:auto;#display:block;#float:left}
+.contact .bloc-2{#height:260px}
+.offres  h2, .full.contact h2 {#left:0;#display:inline}
+.offres section h2  {#top:-36px;#z-index:2;#position:relative}
+.offres .item-page section, .contact .bloc-main{  #position:static;#z-index:1;#clear:left;#overflow:hidden;#margin-top:20px; #padding-top:0;height:auto}
+.contact .bloc-main{ #margin:0}
+.offres .bloc-2{#margin-top:0}
+.offres .intro{#margin-bottom:30px}
+
+/* page credit */
+.credit .solutions{#height:200px}
+.credit .solutions .bloc-2 hr{#color:#94C11E;#top:24px}
+.credit .solutions .bloc-2 p{#padding-bottom:16px}
+.credit .solutions .bloc-1{#clear:left;#float:none;#display:block}
+.credit aside{#clear:left}
+.simulateurs li, .credit aside .bloc-4{#float:left;#display:block}
+
+#video li{display:block;float:left;list-style-type:none}

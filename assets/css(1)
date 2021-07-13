@@ -1,0 +1,40 @@
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Roboto Condensed Light'), local('RobotoCondensed-Light'), url(https://web.archive.org/web/20190119073227im_/https://fonts.gstatic.com/s/robotocondensed/v16/ieVi2ZhZI2eCN5jzbjEETS9weq8-33mZGCQYag.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto Condensed'), local('RobotoCondensed-Regular'), url(https://web.archive.org/web/20190119073227im_/https://fonts.gstatic.com/s/robotocondensed/v16/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7CA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Roboto Condensed Bold'), local('RobotoCondensed-Bold'), url(https://web.archive.org/web/20190119073227im_/https://fonts.gstatic.com/s/robotocondensed/v16/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCQYag.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 07:32:27 Jan 19, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:47:13 Jul 12, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.226
+  RedisCDXSource: 41.063
+  LoadShardBlock: 676.192 (3)
+  captures_list: 1680.565
+  esindex: 0.012
+  PetaboxLoader3.datanode: 201.294 (4)
+  exclusion.robots.policy: 0.197
+  CDXLines.iter: 153.131 (3)
+  load_resource: 105.262
+  PetaboxLoader3.resolve: 61.121
+*/

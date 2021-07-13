@@ -1,0 +1,46 @@
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Roboto Light'), local('Roboto-Light'), url(https://web.archive.org/web/20190119211743im_/https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fBBc9.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'), url(https://web.archive.org/web/20190119211743im_/https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxP.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Roboto Medium'), local('Roboto-Medium'), url(https://web.archive.org/web/20190119211743im_/https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc9.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Roboto Bold'), local('Roboto-Bold'), url(https://web.archive.org/web/20190119211743im_/https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBBc9.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 21:17:43 Jan 19, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:47:11 Jul 12, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 674.719
+  exclusion.robots: 0.071
+  exclusion.robots.policy: 0.067
+  RedisCDXSource: 141.063
+  esindex: 0.006
+  LoadShardBlock: 431.512 (3)
+  PetaboxLoader3.datanode: 797.064 (4)
+  CDXLines.iter: 40.79 (3)
+  load_resource: 475.368
+  PetaboxLoader3.resolve: 66.633
+*/
