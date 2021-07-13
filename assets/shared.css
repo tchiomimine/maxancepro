@@ -286,6 +286,10 @@ footer p#footer-mention img{padding-bottom:6px ;margin:0 6px}
 #pratique .bloc-2 a{ color:#384967; font-size:14px; position:relative; float:right; top:-14px;margin-right:36px}
 
 /*  espace partenaire maintenance */
+.espacepro h2 {
+	margin: 55px auto 40px;
+}
+
 .espacepro .tel{
 	margin: 10px auto 50px;
 	color: #000;
